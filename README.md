@@ -218,4 +218,4 @@ After Burner 3D is a completely free game with all features and updates included
 Download After Burner 3D now and take to the skies in the most exhilarating aerial combat experience available!
 
 ---
-**Last updated:** 2026-10-02 18:17:36 UTC
+**Last updated:** 2026-10-02 22:52:34 UTC
